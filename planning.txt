@@ -1,5 +1,4 @@
 Schedule Programmming Web
-- GitHub
 - Create Data
 - Update Data
 - Delete Data
